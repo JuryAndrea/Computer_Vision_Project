@@ -1,7 +1,5 @@
 # Computer Vision Project
 
-## Project Overview
-
 :warning: This repository was created for the CVPR course project. 
 
 :no_entry_sign: It is not intended for reuse.
